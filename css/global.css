@@ -5,3 +5,17 @@
     box-sizing: border-box;
     font-family: 'karla', sans-serif;
 }
+
+body{
+    background-color:  var(--Light-Gray);
+}
+
+main{
+    padding-block: 4.5rem;
+    padding-inline: 2rem;
+}
+
+h1{
+    text-size-adjust: 1.25rem;
+    color: var(--Cyan);
+}
