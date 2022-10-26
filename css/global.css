@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color:  var(--Light-Gray);
+    background-color:  lightgray;
 }
 
 main{
@@ -16,6 +16,15 @@ main{
 }
 
 h1{
-    text-size-adjust: 1.25rem;
-    color: var(--Cyan);
+    font-size: 1.25rem;
+    color: cyan;
+    line-height: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+h2{
+    font-size: 1.125rem;
+    line-height: 1.375rem;
+    color: #fff;
+    margin-bottom: 1.125rem;
 }
