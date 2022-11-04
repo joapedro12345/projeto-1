@@ -62,7 +62,6 @@
 
 .direita{
     background-color: var(--Light-Cyan);
-    width: 100%;
     padding: 1.5rem;
     border-radius: 0 0 5px 5px;
 }
